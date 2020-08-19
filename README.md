@@ -1,2 +1,2 @@
 # idempotent
-SpringBoot自定义注解实现接口幂等性
+SpringBoot自定义注解使用token的方式实现接口幂等性
